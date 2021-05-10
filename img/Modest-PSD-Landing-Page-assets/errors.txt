@@ -1,0 +1,3 @@
+[2021-5-10 08:49:36] layer "icon-gmail.svg": Fonts may render inconsistently and text wrapping is unsupported which can result in clipped text. Convert text to a shape to maintain fidelity.
+[2021-5-10 08:49:36] layer "icon-dribbble.svg": Fonts may render inconsistently and text wrapping is unsupported which can result in clipped text. Convert text to a shape to maintain fidelity.
+[2021-5-10 08:49:36] layer "icon-behance.svg": Fonts may render inconsistently and text wrapping is unsupported which can result in clipped text. Convert text to a shape to maintain fidelity.

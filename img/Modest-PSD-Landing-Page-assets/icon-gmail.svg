@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="23" viewBox="0 0 13 23">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 36px;
+        fill: #fff;
+        font-family: Socialico;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <text id="icon-gmail.svg" class="cls-1" x="-1.499" y="26.5">g</text>
+</svg>

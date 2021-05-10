@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="17" viewBox="0 0 27 17">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 36px;
+        fill: #fff;
+        font-family: Socialico;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <text id="icon-behance.svg" class="cls-1" x="-1.5" y="23.5">e</text>
+</svg>

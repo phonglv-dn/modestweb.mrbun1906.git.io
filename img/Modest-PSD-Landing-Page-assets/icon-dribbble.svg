@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 36px;
+        fill: #fff;
+        font-family: Socialico;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <text id="icon-dribbble.svg" class="cls-1" x="-1.501" y="26.501">D</text>
+</svg>
